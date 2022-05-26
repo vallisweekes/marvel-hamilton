@@ -1,6 +1,6 @@
 # Getting Started
 
-Install packeges Run
+Install packages Run
 
 ```npm install```
 
@@ -11,5 +11,3 @@ Please add this to your .env file. *Key is sent separate*
 
 ## Start App
 ``` npm start```
-
-
