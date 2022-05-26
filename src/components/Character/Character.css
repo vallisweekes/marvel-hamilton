@@ -1,0 +1,27 @@
+.character {
+    height: 26rem;
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 10px -7px rgba(47, 47, 47, 0.82);
+    border: 1px solid #eee;
+    overflow: hidden;
+    cursor: pointer;
+    user-select: none;
+}
+
+.character_img {
+    width: 100%;
+    height: 70%;
+}
+
+.character_img img {
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+
+.character_name {
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: 800;
+    text-align: center;
+}
